@@ -1,0 +1,5 @@
+﻿  Parcial_2.cpp
+C:\Users\Familia Juarez Lemus\Desktop\Emily\Mariano Galvez\3 Semestre\Programación 1\PARCIAL 2\Parcial_2\Parcial_2\Parcial_2.cpp(52,10): error C2374: 'insert': nueva definición; inicialización múltiple
+C:\Users\Familia Juarez Lemus\Desktop\Emily\Mariano Galvez\3 Semestre\Programación 1\PARCIAL 2\Parcial_2\Parcial_2\Parcial_2.cpp(20): message : vea la declaración de 'insert'
+C:\Users\Familia Juarez Lemus\Desktop\Emily\Mariano Galvez\3 Semestre\Programación 1\PARCIAL 2\Parcial_2\Parcial_2\Parcial_2.cpp(53,15): error C2374: 'i': nueva definición; inicialización múltiple
+C:\Users\Familia Juarez Lemus\Desktop\Emily\Mariano Galvez\3 Semestre\Programación 1\PARCIAL 2\Parcial_2\Parcial_2\Parcial_2.cpp(21): message : vea la declaración de 'i'
